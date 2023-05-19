@@ -1,0 +1,23 @@
+11 21 D
+A B 4
+C A 8
+B C 11
+E B 8
+B D 9
+D C 7
+F C 1
+D E 2
+D F 6
+F E 5
+E G 7
+E H 4
+H F 2
+G H 14
+H I 10
+H K 11
+G I 9
+J G 5
+I J 2
+I K 16
+K J 4
+A

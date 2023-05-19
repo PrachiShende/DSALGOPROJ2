@@ -1,0 +1,25 @@
+12 23 U
+A B 2
+A D 9
+D E 2
+B E 3
+A E 6
+B C 1
+E C 2
+D H 4
+E H 7
+F E 9
+C G 6
+C J 3
+G F 5
+G J 7
+J K 8
+G K 2
+G I 5
+F I 1
+I K 9
+H F 1
+H I 5
+H L 2
+L I 7
+A

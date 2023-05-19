@@ -1,0 +1,27 @@
+13 25 U
+A D 1
+A B 4
+A E 3
+D E 2
+D H 24
+B E 5
+E H 23
+H I 22
+E F 25
+E I 21
+F I 20
+B F 6
+B C 7
+F G 8
+F J 18
+I J 19
+C G 10
+C K 9
+K G 11
+G J 17
+J L 16
+G L 14
+G M 13
+K M 12
+M L 15
+A
